@@ -1,0 +1,9 @@
+{
+    "name": "CompanyCreatures",
+    "version_number": "0.2.0",
+    "website_url": "https://www.youtube.com/channel/UCkaXDpkq3qhhCvwemGPwHvA",
+    "description": "Adds Mushrooms that can infect players with a deafening disease",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

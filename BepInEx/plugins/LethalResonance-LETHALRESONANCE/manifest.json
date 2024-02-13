@@ -1,0 +1,12 @@
+{
+    "name": "LETHALRESONANCE",
+    "version_number": "4.0.7",
+    "website_url": "",
+    "description": "Immerse in 380+ enhanced audio tweaks and custom sounds for a scarier, deeper experience. Feel sound roll off objects, blending intense bass and subtle reverb for a captivating, immersive experience. Support us by hitting the thumbs up! Now only 60MB",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "no00ob-LCSoundTool-1.5.1",
+        "Hardy-LCMaxSoundsFix-1.0.0",
+        "Clementinise-CustomSounds-2.3.2"
+    ]
+}
