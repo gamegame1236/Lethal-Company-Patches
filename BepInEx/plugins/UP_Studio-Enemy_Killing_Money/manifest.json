@@ -1,9 +1,0 @@
-{
-    "name": "Enemy_Killing_Money",
-    "version_number": "1.0.0",
-    "website_url": "",
-    "description": "Receive credits every time a monster is killed.",
-    "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
-    ]
-}

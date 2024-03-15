@@ -1,0 +1,10 @@
+{
+    "name": "WalterWhite",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Adds Walter White to the game! NEW! JESSE PINKMAN. HANK SOON!",
+    "dependencies": [
+        "x753-More_Suits-1.3.2",
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

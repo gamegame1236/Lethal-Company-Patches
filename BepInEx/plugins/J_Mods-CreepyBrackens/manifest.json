@@ -1,0 +1,7 @@
+{
+    "name": "CreepyBrackens",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Adds Freddy's Laugh audio to the Bracken whenever it decides to hunt you.",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

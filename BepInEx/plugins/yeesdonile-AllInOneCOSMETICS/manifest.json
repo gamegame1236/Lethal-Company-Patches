@@ -1,0 +1,20 @@
+{
+  "name": "AllInOneCOSMETICS",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Cosmetics for my modpack AllInOne",
+  "dependencies": [
+"NiaNation-AbsasCosmetics-1.2.0",
+"happyfrosty-FrostySuits-1.1.7",
+"Clementinise-CustomSounds-2.2.0",
+"no00ob-LCSoundTool-1.4.0",
+"Hexnet111-SuitSaver-1.1.2",
+"EliteMasterEric-WackyCosmetics-1.1.0",
+"x753-More_Suits-1.4.1",
+"Verity-TooManySuits-1.0.4",
+"GorillaBeast-WalterWhite-1.0.0",
+"femboytv-LethalPaintings-1.2.0",
+"femboytv-LethalPosters-1.2.0",
+"FlipMods-CustomTelevisionVideo-1.1.3"
+  ]
+}

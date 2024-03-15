@@ -1,9 +1,0 @@
-{
-    "name": "Hitmarker",
-    "version_number": "1.0.3",
-    "website_url": "https://github.com/ZehsTeam/Lethal-Company-Hitmarker",
-    "description": "Shows a hitmarker when you successfully hit an enemy. (Client-side)",
-    "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
-    ]
-}

@@ -1,0 +1,10 @@
+{
+  "name": "AllInOne",
+  "version_number": "3.6.1",
+  "website_url": "",
+  "description": "All In One - is a... NEW MONSTERS! CREEEPY VIBES! GAMEPLAY CHANGES! NEW MECHANICS! CRAWLER AND SPIDER DEBUFF! FREDDY FAZBER! CLONES! ZOMBIES! MIMICS! SKINWALKERS! CRAZY EVENTS! BACKROOMS! 100+ EMOTES! NEW ITEMS! FUN SOUNDS! NO PERFORMANCE LOST!",
+  "dependencies": [
+"yeesdonile-AllInOneCOSMETICS-1.0.0",
+"yeesdonile-AllInOneCORE-1.0.0"
+  ]
+}

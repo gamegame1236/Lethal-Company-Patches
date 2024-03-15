@@ -1,11 +1,11 @@
 {
   "name": "Lategame_Upgrades",
-  "version_number": "3.1.1",
+  "version_number": "3.3.1",
   "website_url": "https://github.com/Malcolm-Q/LC-LateGameUpgrades",
-  "description": "V3.1.0 : Contracts, Wheelbarrow, Helmet, Sick Beats, More",
+  "description": "V3.3.1! - Chargeable Radar Boosters, Locksmith Interaction change & more",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
-    "Evaisa-LethalLib-0.13.1",
+    "Evaisa-LethalLib-0.10.0",
     "Evaisa-HookGenPatcher-0.0.5"
   ]
 }

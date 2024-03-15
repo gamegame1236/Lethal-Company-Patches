@@ -1,0 +1,7 @@
+{
+    "name": "Touchscreen",
+    "version_number": "1.1.0",
+    "description": "Allows players to interact with the ship monitor.",
+    "website_url": "https://github.com/TheDeadSnake/LC-Touchscreen",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
